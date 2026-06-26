@@ -1,6 +1,6 @@
 # MediIntel-AI
 
-MedFlow-AI is an agentic AI solution for healthcare workflow automation. The goal of the project is to help streamline medical and administrative tasks such as patient intake, triage support, documentation, appointment workflows, and care coordination.
+MediIntel-AI is an agentic AI solution for healthcare workflow automation. The goal of the project is to help streamline medical and administrative tasks such as patient intake, triage support, documentation, appointment workflows, and care coordination.
 
 ## Project Goals
 
